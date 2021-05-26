@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Álgebra Lineal y Optimización Numérica 2021
 
-You can use the [editor on GitHub](https://github.com/pfafner/opt2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Descripción.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Programa del curso
+<div id='id-programa'/>
 
-### Markdown
+[Programa del curso](programa/Programa-opt2021.pdf){:target="_blank"}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Horario
+<div id='id-horario'/>
 
-```markdown
-Syntax highlighted code block
+* Por definir.
 
-# Header 1
-## Header 2
-### Header 3
+### Office Hours
+<div id='id-office'/>
 
-- Bulleted
-- List
+* Por definir.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# Material del curso
+<div id='id-material'/>
 
-[Link](url) and ![Image](src)
-```
+  **No.**  | **Fecha**    | **Tópicos**                                                                    | **Actividades**/
+  -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
+  01       |              | Introducción                                                                   | 
+  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Referencias
+<div id='id-ref'/>
 
-### Jekyll Themes
+### Textos:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pfafner/opt2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Por definir.
 
-### Support or Contact
+### Referencias adicionales:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Por definir.
+
+
+---
