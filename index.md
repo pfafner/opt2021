@@ -37,7 +37,17 @@ Descripción.
 
 ### Referencias adicionales:
 
-* Por definir.
+* L. Threfethen y L. Bau III (1997). Numerical Linear Algebra. SIAM Press.
+
+* A. Quarteroni, R. Sacco y F. Saleri (2000). Numerical Mathematics. Springer
+
+* J. Stoer y R. Bulirsch (2002) Introduction to Numerical Analysis. Springer.
+
+* J. Nocedal y S. Wright (2006). Numerical Optimizacion. Springer.
+
+* D. Luengerger y Y. Ye (2016). Linear and Nonlinear Programming. Springer.
+
+* S. Boyd y L. Vandenberghe (2009). Convex Optimization. MIT Press.
 
 
 ---
