@@ -10,7 +10,8 @@ Descripción.
 Se recomienda que los estudiantes antes del curso estén habituados con los temas:
 * Cálculo vectorial
 * Álgebra lineal (teoría)
-* Métodos numéricos para una variables: *root finding*, *fitting*, *numerical differentiation and integration*
+* Algunos elementos de análisis (convergencia secuencias y series, análisis en $R^n$)
+* Métodos numéricos para una variable (*root finding*, *fitting*, *numerical differentiation and integration*)
 * Programación en Python
 
 Para aquellos estudientes que consideren necesario un repaso de Python, sugiero seguie el libro <br/>
