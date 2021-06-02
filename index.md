@@ -47,23 +47,21 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 
 ### Textos:
 
-* Por definir.
+* [L. Threfethen, L. Bau III (1997). Numerical Li](){:target="_blank"}near Algebra. SIAM Press.](){:target="_blank"}
 
-### Referencias adicionales:
+* [J. Nocedal, S. Wright (2006). Numerical Optimizacion. Springer.](){:target="_blank"}
 
-* L. Threfethen y L. Bau III (1997). Numerical Linear Algebra. SIAM Press.
+### Referencias adicionales:](){:target="_blank"}
 
-* G.. Golub y C. Van Loan (2012). Matrix Computations. John Hopkins Press.
+* [G.. Golub, C. Van Loan (2012). Matrix Computations. John Hopkins Press.](){:target="_blank"}
 
-* A. Quarteroni, R. Sacco y F. Saleri (2000). Numerical Mathematics. Springer
+* [A. Quarteroni, R. Sacco, F. Saleri (2000). Numerical Mathematics. Springer](){:target="_blank"}
 
-* J. Stoer y R. Bulirsch (2002) Introduction to Numerical Analysis. Springer.
+* [J. Stoer, R. Bulirsch (2002) Introduction to Numerical Analysis. Springer.](){:target="_blank"}
 
-* J. Nocedal y S. Wright (2006). Numerical Optimizacion. Springer.
+* [D. Luengerger, Y. Ye (2016). Linear and Nonlinear Programming. Springer.](){:target="_blank"}
 
-* D. Luengerger y Y. Ye (2016). Linear and Nonlinear Programming. Springer.
-
-* S. Boyd y L. Vandenberghe (2009). Convex Optimization. MIT Press.
+* [S. Boyd, L. Vandenberghe (2009). Convex Optimization. MIT Press.](){:target="_blank"}
 
 ### Referencias de Programación:
 
