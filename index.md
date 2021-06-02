@@ -26,7 +26,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 ### Horario
 <div id='id-horario'/>
 
-* Por definir.
+* Lunes y Miércoles, 17:20 a 18:55.
 
 ### Office Hours
 <div id='id-office'/>
