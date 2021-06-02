@@ -15,7 +15,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 * Programación en Python
 
 Para aquellos estudientes que consideren necesario un repaso de Python, sugiero seguir el libro <br/>
-[Python Programming And Numerical Methods, Berkeley](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html){:target="_blank"} <br/>
+[Q. Kong, T. Siauw, A. Bayen (2021). *Python Programming and Numerical Methods - A Guide for Engineersand Scientists*.](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html){:target="_blank"}
+ <br/>
 Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 
 # Programa del curso
@@ -26,7 +27,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 ### Horario
 <div id='id-horario'/>
 
-* Lunes y Miércoles, 17:20 a 18:55.
+* Lunes y Miércoles, de 17:20 a 18:55.
 
 ### Office Hours
 <div id='id-office'/>
@@ -65,10 +66,13 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 
 ### Referencias de Programación:
 
-* [Python Programming And Numerical Methods, Berkeley](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html){:target="_blank"}
+* [Q. Kong, T. Siauw, A. Bayen (2021). *Python Programming and Numerical Methods - A Guide for Engineersand Scientists*.](http://library.lol/main/C243E02353CAB4D3A26F4DBD0527E133){:target="_blank"} <br/>
+  [Web version](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html){:target="_blank"}
 
-* [Python Programming And Numerical Methods, Berkeley](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html){:target="_blank"}
+* [A. Gezerlis (2020). *Numerical Methods in Physics with Python*.](http://library.lol/main/16158CCB54986445C6EC84980B58DB7E){:target="_blank"}
 
-* [Python Programming And Numerical Methods, Berkeley](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html){:target="_blank"}
+* [Jaan Kiusalaas (2013). *Numerical Methods in Engineering with Python 3*.](http://library.lol/main/8F89791F3C9338F2E23EEC2C7BF5403B){:target="_blank"}
+
+* [](){:target="_blank"}
 
 ---
