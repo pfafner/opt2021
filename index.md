@@ -14,7 +14,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 * Métodos numéricos para una variable (*root finding*, *fitting*, *numerical differentiation and integration*)
 * Programación en Python
 
-Para aquellos estudientes que consideren necesario un repaso de Python, sugiero seguir el libro <br/>
+Para aquellos estudiantes que consideren necesario un repaso de Python, sugiero seguir el libro <br/>
 [Q. Kong, T. Siauw, A. Bayen (2021). *Python Programming and Numerical Methods - A Guide for Engineersand Scientists*.](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html){:target="_blank"}
  <br/>
 Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
@@ -38,7 +38,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 # Material del curso
 <div id='id-material'/>
 
-  **No.**  | **Fecha**    | **Tópicos**                                                                    | **Actividades**/
+  **No.**  | **Fecha**    | **Tópicos**                                                                    | **Actividades**
   -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
   01       |              | Introducción                                                                   | 
   
@@ -48,15 +48,15 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 
 ### Textos:
 
-* [L. Threfethen, L. Bau III (1997). Numerical Li](){:target="_blank"}near Algebra. SIAM Press.](){:target="_blank"}
+* [L. Threfethen, L. Bau III (1997). *Numerical Linear Algebra*.](){:target="_blank"}
 
-* [J. Nocedal, S. Wright (2006). Numerical Optimizacion. Springer.](){:target="_blank"}
+* [J. Nocedal, S. Wright (2006). *Numerical Optimizacion*.](){:target="_blank"}
 
-### Referencias adicionales:](){:target="_blank"}
+### Referencias adicionales:
 
-* [G.. Golub, C. Van Loan (2012). Matrix Computations. John Hopkins Press.](){:target="_blank"}
+* [G.. Golub, C. Van Loan (2012). *Matrix Computations*.](){:target="_blank"}
 
-* [A. Quarteroni, R. Sacco, F. Saleri (2000). Numerical Mathematics. Springer](){:target="_blank"}
+* [A. Quarteroni, R. Sacco, F. Saleri (2000). *Numerical Mathematics*.](){:target="_blank"}
 
 * [J. Stoer, R. Bulirsch (2002) Introduction to Numerical Analysis. Springer.](){:target="_blank"}
 
@@ -72,7 +72,5 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 * [A. Gezerlis (2020). *Numerical Methods in Physics with Python*.](http://library.lol/main/16158CCB54986445C6EC84980B58DB7E){:target="_blank"}
 
 * [Jaan Kiusalaas (2013). *Numerical Methods in Engineering with Python 3*.](http://library.lol/main/8F89791F3C9338F2E23EEC2C7BF5403B){:target="_blank"}
-
-* [](){:target="_blank"}
 
 ---
