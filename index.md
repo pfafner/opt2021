@@ -14,7 +14,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 * Métodos numéricos para una variable (*root finding*, *fitting*, *numerical differentiation and integration*)
 * Programación en Python
 
-Para aquellos estudientes que consideren necesario un repaso de Python, sugiero seguie el libro <br/>
+Para aquellos estudientes que consideren necesario un repaso de Python, sugiero seguir el libro <br/>
 [Python Programming And Numerical Methods, Berkeley](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html){:target="_blank"} <br/>
 Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 
@@ -65,5 +65,12 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 
 * S. Boyd y L. Vandenberghe (2009). Convex Optimization. MIT Press.
 
+### Referencias de Programación:
+
+* [Python Programming And Numerical Methods, Berkeley](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html){:target="_blank"}
+
+* [Python Programming And Numerical Methods, Berkeley](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html){:target="_blank"}
+
+* [Python Programming And Numerical Methods, Berkeley](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html){:target="_blank"}
 
 ---
