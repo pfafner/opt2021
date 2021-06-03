@@ -2,7 +2,20 @@
 
 # Álgebra Lineal y Optimización Numérica 2021
 
-Descripción.
+Este curso es continuación de los temas estudiados en Métodos Numéricos 1. En esta materia, se estudian o revisan temas no introductorios de algoritmos para cálculo científico y aplicado y su implementación computacional.
+Se estudian tres grandes temas:
+
+1. Álgebra lineal computacional.
+2. Optimización numérica.
+3. Métodos numéricos para resolver EDO.
+    
+La primera parte el curso se enfoca en temas sobre cálculo de autovalores y autovectores, solución de sistemas lineales, y cálculo eficiente de determinantes y otros invariantes algebraicos. Se introduce al estudio de métodos eficientes para matrices ralas o *sparse*.
+
+El bloque principal del curso introduce el tema de optimización numérica. Aquí se estudian los principales algoritmos de optimización continua, como los métodos de gradiente: búsqueda en línea, gradiente conjugado, métodos de quasi-Newton, así como los métodos de punto interior. El bloque culmina haciendo un estudio de la teoría de optimización restricta y su aplicación en problemas de programación lineal y programación cuadrática.
+
+Finalmente, y si el tiempo lo permite, haremos una introducción a los métodos de solución de ecuaciones diferenciales ordinarias, haciendo énfasis en métodos de la familia Runge-Kutta, así como los métodos predictor-correcor. Se hace una breve introducción a los métodos adaptativos. El tema se complementa con métodos para resolver numéricamente problemas de valores en la frontera.
+
+**Importante!!** El curso cuenta con una parte práctica extensiva, en la que el estudiante implementará en código computacional cada uno de los algoritmos estudiados. Parte fundamental del curso es utilizar las herramientas aprendidas en varios proyectos aplicados donde se trabajará con datos reales y comunicar los resultados mediante reportes técnicos y seminarios.
 
 
 # Prerrequisitos
