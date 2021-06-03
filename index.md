@@ -40,7 +40,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 
   **No.**  | **Fecha**    | **Tópicos**                                                                    | **Actividades**
   -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
-  01       |              | Introducción                                                                   | 
+  01       | 05.07.2021   | Introducción                                                                   | 
   
 
 # Referencias
@@ -56,13 +56,13 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 
 * [G.. Golub, C. Van Loan (2012). *Matrix Computations*.](http://library.lol/main/72562A3A733C2E842BE163CA97D0FA7A){:target="_blank"}
 
-* [A. Quarteroni, R. Sacco, F. Saleri (2000). *Numerical Mathematics*.](){:target="_blank"}
+* [A. Quarteroni, R. Sacco, F. Saleri (2000). *Numerical Mathematics*.](http://library.lol/main/7D136BC80ECBF0BA65798EC129FCCAF4){:target="_blank"}
 
-* [J. Stoer, R. Bulirsch (2002) Introduction to Numerical Analysis. Springer.](){:target="_blank"}
+* [J. Stoer, R. Bulirsch (2002) *Introduction to Numerical Analysis*.](http://library.lol/main/04B36CA585EB49F5FDED7479823F2B50){:target="_blank"}
 
-* [D. Luenberger, Y. Ye (2016). Linear and Nonlinear Programming. Springer.](){:target="_blank"}
+* [D. Luenberger, Y. Ye (2016). *Linear and Nonlinear Programming*.](){:target="_blank"}
 
-* [S. Boyd, L. Vandenberghe (2009). Convex Optimization. MIT Press.](){:target="_blank"}
+* [S. Boyd, L. Vandenberghe (2009). *Convex Optimization*.](){:target="_blank"}
 
 ### Referencias de Programación:
 
