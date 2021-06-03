@@ -15,7 +15,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 * Programación en Python
 
 Para aquellos estudiantes que consideren necesario un repaso de Python, sugiero seguir el libro <br/>
-[Q. Kong, T. Siauw, A. Bayen (2021). *Python Programming and Numerical Methods - A Guide for Engineersand Scientists*.](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html){:target="_blank"}
+[Q. Kong, T. Siauw, A. Bayen (2021). *Python Programming and Numerical Methods - A Guide for Engineers and Scientists*.](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html){:target="_blank"}
  <br/>
 Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 
@@ -54,19 +54,19 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 
 ### Referencias adicionales:
 
-* [G.. Golub, C. Van Loan (2012). *Matrix Computations*.](){:target="_blank"}
+* [G.. Golub, C. Van Loan (2012). *Matrix Computations*.](http://library.lol/main/72562A3A733C2E842BE163CA97D0FA7A){:target="_blank"}
 
 * [A. Quarteroni, R. Sacco, F. Saleri (2000). *Numerical Mathematics*.](){:target="_blank"}
 
 * [J. Stoer, R. Bulirsch (2002) Introduction to Numerical Analysis. Springer.](){:target="_blank"}
 
-* [D. Luengerger, Y. Ye (2016). Linear and Nonlinear Programming. Springer.](){:target="_blank"}
+* [D. Luenberger, Y. Ye (2016). Linear and Nonlinear Programming. Springer.](){:target="_blank"}
 
 * [S. Boyd, L. Vandenberghe (2009). Convex Optimization. MIT Press.](){:target="_blank"}
 
 ### Referencias de Programación:
 
-* [Q. Kong, T. Siauw, A. Bayen (2021). *Python Programming and Numerical Methods - A Guide for Engineersand Scientists*.](http://library.lol/main/C243E02353CAB4D3A26F4DBD0527E133){:target="_blank"} <br/>
+* [Q. Kong, T. Siauw, A. Bayen (2021). *Python Programming and Numerical Methods - A Guide for Engineers and Scientists*.](http://library.lol/main/C243E02353CAB4D3A26F4DBD0527E133){:target="_blank"} <br/>
   [Web version](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html){:target="_blank"}
 
 * [A. Gezerlis (2020). *Numerical Methods in Physics with Python*.](http://library.lol/main/16158CCB54986445C6EC84980B58DB7E){:target="_blank"}
