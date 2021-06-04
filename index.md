@@ -13,7 +13,7 @@ La primera parte el curso se enfoca en temas sobre cálculo de autovalores y aut
 Se recomienda que los estudiantes antes del curso estén habituados con los temas:
 * Cálculo vectorial
 * Álgebra lineal (teoría)
-* Algunos elementos de análisis (convergencia secuencias y series, análisis en $R^n$)
+* Algunos elementos de análisis (convergencia secuencias y series, análisis en Rn)
 * Métodos numéricos para una variable (*root finding*, *fitting*, *numerical differentiation and integration*)
 * Programación en Python
 
