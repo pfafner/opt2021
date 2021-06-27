@@ -63,6 +63,10 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 
 * [J. Stoer, R. Bulirsch (2002) *Introduction to Numerical Analysis*.](http://library.lol/main/04B36CA585EB49F5FDED7479823F2B50){:target="_blank"}
 
+* [](){:target="_blank"}
+
+* [](){:target="_blank"} 
+
 * [D. Luenberger, Y. Ye (2016). *Linear and Nonlinear Programming*.](http://library.lol/main/EB915E0FDCC8D3BA222B37C9A3DD6B4F){:target="_blank"}
 
 * [A. Izmailov, M. Solodov (2014). *Newton-type for Optimization and Variational Problems*.](http://library.lol/main/C8C3ED2461D9C8C2608595B223ABDD91){:target="_blank"}
