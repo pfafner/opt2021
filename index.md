@@ -65,7 +65,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 
 * [D. Griffiths, D. Higham (2010). *Numerical Methods for Ordinary Differential Equations*.](){:target="_blank"}
 
-* [J. C. Butcher (2016). *Numerical Methods for Ordinary Differential Equations*.](){:target="_blank"} 
+* [J. C. Butcher (2016). *Numerical Methods for Ordinary Differential Equations*.](http://library.lol/main/43A7A457B95E0443C75D23DC1B46FEE7){:target="_blank"} 
 
 * [D. Luenberger, Y. Ye (2016). *Linear and Nonlinear Programming*.](http://library.lol/main/EB915E0FDCC8D3BA222B37C9A3DD6B4F){:target="_blank"}
 
