@@ -1,9 +1,8 @@
 ## *This site is under construction.*
 
-# Álgebra Lineal y Optimización Numérica 2021
+# Métodos Numéricos II 2021
 
-Este curso es continuación de los temas estudiados en Métodos Numéricos 1. En esta materia, se estudian o revisan temas no introductorios de algoritmos para cálculo científico y aplicado y su implementación computacional. Se estudian tres grandes temas: (1) Álgebra lineal computacional, (2) Optimización numérica, (3) Métodos numéricos para resolver EDO.
-La primera parte el curso se enfoca en temas sobre cálculo de autovalores y autovectores, y la solución eficiente de sistemas lineales. El bloque principal del curso introduce los temas de optimización numérica, principalmente los métodos de gradiente y punto interior. El bloque culmina haciendo un estudio de la teoría de optimización restricta, programación lineal y programación cuadrática. Si el tiempo lo permite, haremos una introducción a los métodos de solución de ecuaciones diferenciales ordinarias, haciendo énfasis en métodos de la familia Runge-Kutta, y los métodos predictor-correcor.
+Este curso es continuación de los temas estudiados en Métodos Numéricos 1. En esta materia, se estudian o revisan temas no introductorios de algoritmos para cálculo científico y aplicado y su implementación computacional. Se estudian tres grandes temas: (1) Álgebra lineal computacional, (2) Métodos numéricos para resolver EDO, y (3) Optimización numérica. La primera parte el curso se enfoca en temas sobre cálculo de autovalores y autovectores, y la solución eficiente de sistemas lineales. En el segundo bloque, haremos una introducción a los métodos numéricos para resolver ecuaciones diferenciales ordinarias (EDO), haciendo énfasis en métodos de la familia Runge-Kutta, y los métodos predictor-corrector. Si el tiempo lo permite, haremos una introducción a los métodos para resolver escuaciones diferenciales parciales (EDP). El bloque principal del curso introduce los temas de optimización numérica, principalmente los métodos de gradiente y punto interior. El curso culmina haciendo un estudio de la teoría de optimización restricta, particularmente programación lineal y programación cuadrática.
 
 **Importante!!** El curso cuenta con una parte práctica extensiva, en la que el estudiante implementará en código computacional cada uno de los algoritmos estudiados. Parte fundamental del curso es utilizar las herramientas aprendidas en varios proyectos aplicados donde se trabajará con datos reales y comunicar los resultados mediante reportes técnicos y seminarios.
 
@@ -13,9 +12,9 @@ La primera parte el curso se enfoca en temas sobre cálculo de autovalores y aut
 Se recomienda que los estudiantes antes del curso estén habituados con los temas:
 * Cálculo vectorial
 * Álgebra lineal (teoría)
-* Algunos elementos de análisis (convergencia secuencias y series, análisis en Rn)
+* Algunos elementos de análisis (convergencia de secuencias y series, análisis en Rn)
 * Métodos numéricos para una variable (*root finding*, *fitting*, *numerical differentiation and integration*)
-* Programación en Python
+* Programación en Python.
 
 Para aquellos estudiantes que consideren necesario un repaso de Python, sugiero seguir el libro <br/>
 [Q. Kong, T. Siauw, A. Bayen (2021). *Python Programming and Numerical Methods - A Guide for Engineers and Scientists*.](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html){:target="_blank"}
