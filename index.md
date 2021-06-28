@@ -63,7 +63,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 
 * [J. Stoer, R. Bulirsch (2002). *Introduction to Numerical Analysis*.](http://library.lol/main/04B36CA585EB49F5FDED7479823F2B50){:target="_blank"}
 
-* [D. Griffiths, D. Higham (2010). *Numerical Methods for Ordinary Differential Equations*.](){:target="_blank"}
+* [D. Griffiths, D. Higham (2010). *Numerical Methods for Ordinary Differential Equations*.](http://library.lol/main/61C367A31FBE7D8FD1E1A9129CED0B95){:target="_blank"}
 
 * [J. C. Butcher (2016). *Numerical Methods for Ordinary Differential Equations*.](http://library.lol/main/43A7A457B95E0443C75D23DC1B46FEE7){:target="_blank"} 
 
