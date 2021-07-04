@@ -29,12 +29,12 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 ### Horario
 <div id='id-horario'/>
 
-* Lunes y Miércoles, de 17:20 a 18:55.
+* Lunes de 19:50 a 21:25, Miércoles de 19:00 a 20:35.
 
 ### Office Hours
 <div id='id-office'/>
 
-* Por definir.
+* Sábados.
 
 
 # Material del curso
@@ -42,7 +42,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 
   **No.**  | **Fecha**    | **Tópicos**                                                                    | **Actividades**
   -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
-  01       | 05.07.2021   | Introducción                                                                   | 
+  01       | 07.07.2021   | Introducción                                                                   | 
   
 
 # Referencias
@@ -53,6 +53,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 * [L. Trefethen, L. Bau III (1997). *Numerical Linear Algebra*.](http://library.lol/main/079EA6C3FD8CDF23B0C2ACD901CA9A26){:target="_blank"}
 
 * [J. Nocedal, S. Wright (2006). *Numerical Optimization*.](http://library.lol/main/7016B74CFE6DC64C75864322EE4AA081){:target="_blank"}
+
 
 ### Referencias adicionales:
 
@@ -71,6 +72,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 * [A. Izmailov, M. Solodov (2014). *Newton-type for Optimization and Variational Problems*.](http://library.lol/main/C8C3ED2461D9C8C2608595B223ABDD91){:target="_blank"}
 
 * [S. Boyd, L. Vandenberghe (2009). *Convex Optimization*.](http://library.lol/main/A9A5D9C3CA105DB0F41AF39A6C89706C){:target="_blank"}
+
 
 ### Referencias de Programación:
 
