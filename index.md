@@ -40,7 +40,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 # Material del curso
 <div id='id-material'/>
 
-  **No.**  | **Fecha**    | **Tópicos**                                                                    | **Actividades**
+  **No.**  | **Fecha**    | **Tópicos**                                                                    | **Recursos**
   -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
   01       | 07.07.2021   | Introducción                                                                   | 
   
