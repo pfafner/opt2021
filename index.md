@@ -1,5 +1,3 @@
-## *This site is under construction.*
-
 # Métodos Numéricos II 2021
 
 Este curso es continuación de los temas estudiados en Métodos Numéricos 1. En esta materia, se estudian o revisan temas no introductorios de algoritmos para cálculo científico y aplicado y su implementación computacional. Se estudian tres grandes temas: (1) Álgebra lineal computacional, (2) Métodos numéricos para resolver EDO, y (3) Optimización numérica. La primera parte el curso se enfoca en temas sobre cálculo de autovalores y autovectores, y la solución eficiente de sistemas lineales. En el segundo bloque, haremos una introducción a los métodos numéricos para resolver ecuaciones diferenciales ordinarias (EDO), haciendo énfasis en métodos de la familia Runge-Kutta, y los métodos predictor-corrector. Si el tiempo lo permite, haremos una introducción a los métodos para resolver escuaciones diferenciales parciales (EDP). El bloque principal del curso introduce los temas de optimización numérica, principalmente los métodos de gradiente y punto interior. El curso culmina haciendo un estudio de la teoría de optimización restricta, particularmente programación lineal y programación cuadrática.
