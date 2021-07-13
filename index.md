@@ -41,7 +41,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   **No.**  | **Fecha**    | **Tópicos**                                                                   | **Recursos**
   -------- | ------------ | ----------------------------------------------------------------------------- |  -------------------------------------
   01       | 07.07.2021   | Introducción al curso. Normas matriciales. <br/> [Aula01](aulas/Aula01.pdf){:target="_blank"}  | Libro de Trefethen, Lecture 3.
-  02       | 12.07.2021   | Descomposición espectral. Descomposición SVD.                                 | 
+  02       | 12.07.2021   | Descomposición espectral. Descomposición SVD. <br/> [Aula02](aulas/Aula02.pdf){:target="_blank"}  | Libro de Trefethen, Lecture 3.
   
 
 # Referencias
