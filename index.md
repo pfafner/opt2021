@@ -40,9 +40,10 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 
   **No.**  | **Fecha**    | **Tópicos**                                                                   | **Recursos**
   -------- | ------------ | ----------------------------------------------------------------------------- |  -------------------------------------
-  01       | 07.07.2021   | Introducción al curso. Normas matriciales. <br/> [Aula01](aulas/Aula01.pdf){:target="_blank"}  | Libro de Trefethen, Lecture 3.
-  02       | 12.07.2021   | Descomposición espectral. Descomposición SVD. <br/> [Aula02](aulas/Aula02.pdf){:target="_blank"}  | Libro de Trefethen, Lectures 4 y 5. <br/> [defective.ipynb](code/defective.ipynb){:target="_blank"}
-  03       | 14.07.2021   |                                                                               | 
+  01       | 07.07.2021   | Introducción al curso. Normas matriciales. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"}  | Libro de Trefethen, Lecture 3.
+  02       | 12.07.2021   | Descomposición espectral. Descomposición SVD. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"}  | Libro de Trefethen, Lectures 4 y 5. <br/> [defective.ipynb](code/defective.ipynb){:target="_blank"}
+  03       | 14.07.2021   |  Condicionamiento. Estabilidad. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"}  | Libro de Trefethen, Lectures 12, 13, 14 y 15. <br/> [defective.ipynb](code/defective.ipynb){:target="_blank"}
+  | 
   
 
 # Referencias
