@@ -47,6 +47,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   04       | 19.07.2021   | Eliminación gaussiana. Factoración LU y PA = LU. Pivoteo. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} <br/> Las notas de clase tienen muchos errores. Voy a subir una versión corregida al final de la semana. | Libro de Trefethen, Lectures 20, 21 y 22. <br/> [gaussian-elimination.ipynb](code/gaussian-elimination.ipynb){:target="_blank"}
   05       | 21.07.2021   | Factoración de Cholesky. Factoración LDL^T <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Libro de Trefethen, Lecture 23. <br/> [cholesky.ipynb](code/cholesky.ipynb){:target="_blank"}
   06       | 26.07.2021   | Métodos Iterativos para sistemas lineales. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Libro de Quarteroni *et al.*, Cap. 4. <br/> [iterative.ipynb](code/iterative.ipynb){:target="_blank"}
+  07       | 27.07.2021   | Descomposición QR. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Libro de Trefethen, Lectures 6-8 y 10.
   .        |              |                                                                               | 
   
 
