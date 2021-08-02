@@ -49,6 +49,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   06       | 26.07.2021   | Métodos Iterativos para sistemas lineales. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Libro de Quarteroni *et al.*, Cap. 4. <br/> [iterative.ipynb](code/iterative.ipynb){:target="_blank"}
   07       | 28.07.2021   | Descomposición QR. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"}        | Libro de Trefethen, Lectures 6-8 y 10.
   L2       | 29.07.2021   |                                                                               | [Lista de ejercicios 2](listas/Lista02.pdf){:target="_blank"} <br/> **Fecha de entrega: domingo 08 de agosto.** 
+  08       | 02.08.2021   | Cálculo de Autovalores                                                        |
   .        |              |                                                                               | 
   
 
