@@ -50,7 +50,8 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   07       | 28.07.2021   | Descomposición QR. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"}        | Libro de Trefethen, Lectures 6-8 y 10.
   L2       | 29.07.2021   |                                                                               | [Lista de ejercicios 2](listas/Lista02.pdf){:target="_blank"} <br/> **Fecha de entrega: domingo 08 de agosto.** 
   08       | 02.08.2021   | Cálculo de Autovalores. Método de las Potencias. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Libro de Trefethen, Lecture 27.
-  09       | 04.08.2021   | El método QR. Reducción a la forma de Hessemberg. <br/>                       | Libro de Trefethen, Lectures 26 y 28.
+  09       | 04.08.2021   | El método QR. Reducción a la forma de Hessemberg. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Libro de Trefethen, Lectures 26 y 28.
+  10       | 09.08.2021   | Espacios de Krylov. Método de Arnoldi. Método de Lanczos. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Libro de Trefethen, Lectures 33, 34 y 36.
   .        |              |                                                                               | 
   
 
