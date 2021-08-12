@@ -52,9 +52,8 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   08       | 02.08.2021   | Cálculo de Autovalores. Método de las Potencias. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Libro de Trefethen, Lecture 27.
   09       | 04.08.2021   | El método QR. Reducción a la forma de Hessemberg. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Libro de Trefethen, Lectures 26 y 28.
   10       | 09.08.2021   | Espacios de Krylov. Método de Arnoldi. Método de Lanczos. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Libro de Trefethen, Lectures 33, 34 y 36.
-  10       | 09.08.2021   | Espacios de Krylov. Método de Arnoldi. Método de Lanczos. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Libro de Trefethen, Lectures 33, 34 y 36.
-
-10       | 09.08.2021   | Espacios de Krylov. Método de Arnoldi. Método de Lanczos. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Libro de Trefethen, Lectures 33, 34 y 36.
+  11       | 11.08.2021   | Espacios de Krylov II: CG, MINRES, FOM, GMRES. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Libro de Trefethen, Lecture 35 y 38.
+  
 
   .        |              |                                                                               | 
   
