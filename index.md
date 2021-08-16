@@ -54,7 +54,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   10       | 09.08.2021   | Espacios de Krylov. Método de Arnoldi. Método de Lanczos. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Libro de Trefethen, Lectures 33, 34 y 36.
   11       | 11.08.2021   | Espacios de Krylov II: CG, MINRES, FOM, GMRES. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Libro de Trefethen, Lectures 35 y 38.
   12       | 11.08.2021   | Matrices ralas. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"}           | 
-  L3       | 15.08.2021   | [plane.jpg](listas/plane.jpg){:target="_blank"} [eagle.jpg](listas/eagle.jpg){:target="_blank"} [falcon.jpg](listas/falcon.jpg){:target="_blank"} [greece.jpg](listas/greece.jpg){:target="_blank"} <br/> [spclust.py](listas/spclust.py){:target="_blank"} [spclust.ipynb](listas/spclust.ipynb){:target="_blank"} | [Lista de ejercicios 3](listas/Lista03.pdf){:target="_blank"} <br/>  **Fecha de entrega: jueves 26 de agosto.** 
+  L3       | 15.08.2021   | [plane.jpg](listas/plane.jpg){:target="_blank"} [eagle.jpg](listas/eagle.jpg){:target="_blank"} [falcon.jpg](listas/falcon.jpg){:target="_blank"} [greece.jpg](listas/greece.jpg){:target="_blank"} <br/> [spclust.py](listas/spClust.py){:target="_blank"} [spclust.ipynb](listas/spClust.ipynb){:target="_blank"} | [Lista de ejercicios 3](listas/Lista03.pdf){:target="_blank"} <br/>  **Fecha de entrega: jueves 26 de agosto.** 
   .        |              |                                                                               | 
   
 
