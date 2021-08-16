@@ -85,6 +85,8 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 
 * [S. Boyd, L. Vandenberghe (2009). *Convex Optimization*.](http://library.lol/main/A9A5D9C3CA105DB0F41AF39A6C89706C){:target="_blank"}
 
+* [C. Meyer (2001). *Matrix Analysis and Applied Linear Algebra*.](http://library.lol/main/7EF368F2EA42EB4E48F09EA438C1822E){:target="_blank"}
+
 
 ### Referencias de Programación:
 
