@@ -55,7 +55,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   11       | 11.08.2021   | Espacios de Krylov II: CG, MINRES, FOM, GMRES. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Libro de Trefethen, Lectures 35 y 38.
   12       | 11.08.2021   | Matrices ralas. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"}           | 
   L3       | 15.08.2021   | [plane.jpg](listas/plane.jpg){:target="_blank"} [eagle.jpg](listas/eagle.jpg){:target="_blank"} [falcon.jpg](listas/falcon.jpg){:target="_blank"} [greece.jpg](listas/greece.jpg){:target="_blank"} <br/> [spclust.py](listas/spClust.py){:target="_blank"} [spclust.ipynb](listas/spClust.ipynb){:target="_blank"} | [Lista de ejercicios 3](listas/Lista03.pdf){:target="_blank"} <br/>  **Fecha de entrega: jueves 26 de agosto.** 
-  13       | 16.08.2021   | Fundamentos de Optimización. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Nocedal y Wright, Cap.  
+  13       | 16.08.2021   | Fundamentos de Optimización. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Nocedal y Wright, Cap. 1.
   .        |              |                                                                               | 
   
 
