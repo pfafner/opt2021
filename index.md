@@ -57,6 +57,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   L3       | 15.08.2021   | [plane.jpg](listas/plane.jpg){:target="_blank"} [eagle.jpg](listas/eagle.jpg){:target="_blank"} [falcon.jpg](listas/falcon.jpg){:target="_blank"} [greece.jpg](listas/greece.jpg){:target="_blank"} <br/> [spclust.py](listas/spClust.py){:target="_blank"} [spclust.ipynb](listas/spClust.ipynb){:target="_blank"} | [Lista de ejercicios 3](listas/Lista03.pdf){:target="_blank"} <br/>  **Fecha de entrega: jueves 26 de agosto.** 
   13       | 16.08.2021   | Fundamentos de Optimización. Derivadas vectoriales. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Nocedal y Wright, Cap. 1.
   14       | 18.08.2021   | Fundamentos de Optimización II. Gradiente y Fórmula de Taylor. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Nocedal y Wright, Cap. 1.
+  15       | 23.08.2021   | Condiciones de Optimalidad .                                                  | 
   .        |              |                                                                               | 
   
 
