@@ -59,6 +59,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   14       | 18.08.2021   | Fundamentos de Optimización II. Gradiente y Fórmula de Taylor. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Nocedal y Wright, Cap. 1.
   15       | 23.08.2021   | Condiciones de Optimalidad. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | Nocedal y Wright, Cap. 1.
   16       | 25.08.2021   | Funciones Convexas. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | Boyd y Vandenberghe, Secciones 3.1 y 3.2.
+  16       | 30.08.2021   | Descenso gradiente. <br/>                                                     |
   .        |              |                                                                               | 
   
 
