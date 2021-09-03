@@ -61,6 +61,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   16       | 25.08.2021   | Funciones Convexas. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"}       | Boyd y Vandenberghe, Secciones 3.1 y 3.2.
   17       | 30.08.2021   | Descenso gradiente. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"}       | Nocedal y Wright, Cap. 2.
   L4       | 30.08.2021   |                                                                               | [Lista de ejercicios 4](listas/Lista04.pdf){:target="_blank"} <br/>  **Fecha de entrega: viernes 10 de septiembre.**
+  18       | 01.09.2021   | Optimización 1-dimensional. Descenso gradiente Cauchy y Newton.               | Nocedal y Wright, Cap. 2.
   .        |              |                                                                               | 
   
 
