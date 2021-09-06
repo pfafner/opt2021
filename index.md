@@ -62,6 +62,8 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   17       | 30.08.2021   | Descenso gradiente. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"}       | Nocedal y Wright, Cap. 2.
   L4       | 30.08.2021   |                                                                               | [Lista de ejercicios 4](listas/Lista04.pdf){:target="_blank"} <br/>  **Fecha de entrega: viernes 10 de septiembre.**
   18       | 01.09.2021   | Optimización 1-dimensional. Descenso gradiente Cauchy y Newton.               | Nocedal y Wright, Cap. 2.
+  19       | 06.09.2021   | Búsqueda en Línea.                                                            | 
+  20       | 08.09.2021   | Convergencia global. Orden de convergencia.                                   | 
   .        |              |                                                                               | 
   
 
