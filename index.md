@@ -64,6 +64,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   18       | 01.09.2021   | Optimización 1-dimensional. Descenso gradiente Cauchy y Newton.               | Nocedal y Wright, Cap. 2.
   19       | 06.09.2021   | Búsqueda en Línea. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"}        | Nocedal y Wright, Sección 3.1.
   20       | 08.09.2021   | Convergencia de descenso gradiente. Condición de Zoutendijk. Orden de convergencia. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Falta añadir la parte de orden de convergencia.
+  L5       | 11.09.2021   |                                                                               | 
   .        |              |                                                                               | 
   
 
