@@ -65,7 +65,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   19       | 06.09.2021   | Búsqueda en Línea. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"}        | Nocedal y Wright, Sección 3.1.
   20       | 08.09.2021   | Convergencia de descenso gradiente. Condición de Zoutendijk. Orden de convergencia. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Falta añadir la parte de orden de convergencia.
   L5       | 11.09.2021   | [Lista de ejercicios 5](listas/Lista05.pdf){:target="_blank"} <br/>  **Fecha de entrega: lunes 27 de septiembre.** | [yk.txt](listas/yk.txt){:target="_blank"} [mnist.pkl.gz](listas/mnist.pkl.gz){:target="_blank"} [read_mnist.ipynb](listas/read_mnist.ipynb){:target="_blank"}
-  21       |              |                                                                               | 
+  21       | 20.09.2021   |                                                                               | 
   .        |              |                                                                               | 
   
 
