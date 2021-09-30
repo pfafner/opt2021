@@ -67,7 +67,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   L5       | 11.09.2021   | [Lista de ejercicios 5](listas/Lista05.pdf){:target="_blank"} <br/>  **Fecha de entrega: lunes 27 de septiembre.** | [yk.txt](listas/yk.txt){:target="_blank"} [mnist.pkl.gz](listas/mnist.pkl.gz){:target="_blank"} [read_mnist.ipynb](listas/read_mnist.ipynb){:target="_blank"}
   21       | 20.09.2021   | Dudas de la Lista 5.                                                          | Nocedal y Wright, Capítulo 3.
   22       | 27.09.2021   | Métodos de Región de Confianza. <br/> [Aula 22](aulas/Aula22.pdf){:target="_blank"} | Nocedal y Wright, Sección 4.1.
-  23       | 29.09.2021   | Punto de Cauchy. Método *Dogleg*. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"} | [Método del Punto de Cauchy](aulas/Aula23a.pdf){:target="_blank"} <br/> [Método*Dogleg*](aulas/Aula23b.pdf){:target="_blank"}
+  23       | 29.09.2021   | Punto de Cauchy. Método *Dogleg*. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"} | [Método del Punto de Cauchy](aulas/Aula23a.pdf){:target="_blank"} <br/> [Método *Dogleg*](aulas/Aula23b.pdf){:target="_blank"}
   .        |              |                                                                               | 
   
 
