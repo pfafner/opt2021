@@ -73,6 +73,10 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   26       |              |                                                                               | 
   .        |              |                                                                               | 
   
+# Proyectos
+
+A continuación encontrarán sugerencias de tópicos para su proyecto de curso.  [Temas-proyecto](proyectos/Temas-proyecto.pdf){:target="_blank"} 
+
 
 # Referencias
 <div id='id-ref'/>
