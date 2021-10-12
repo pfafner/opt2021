@@ -70,7 +70,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   23       | 29.09.2021   | Punto de Cauchy. Método *Dogleg*. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"} | [Método del Punto de Cauchy](aulas/Aula23a.pdf){:target="_blank"} <br/> [Método *Dogleg*](aulas/Aula23b.pdf){:target="_blank"}
   24       | 04.10.2021   | Descenso Coordenado. Método de Gradiente Proyectado.                          |   
   25       | 06.10.2021   | Gradiente Conjugado. <br/> [Aula 25](aulas/Aula25.pdf){:target="_blank"}      | 
-  26       |              |                                                                               | 
+  26       | 11.10.2021   | Gradiente Conjugado no lineal: Fletcher-Reeves, Polak-Ribière, Hestenes-Stiefel. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} | 
   .        |              |                                                                               | 
   
 # Proyectos
