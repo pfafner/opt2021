@@ -71,6 +71,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   24       | 04.10.2021   | Descenso Coordenado. Método de Gradiente Proyectado.                          |   
   25       | 06.10.2021   | Gradiente Conjugado. <br/> [Aula 25](aulas/Aula25.pdf){:target="_blank"}      | 
   26       | 11.10.2021   | Gradiente Conjugado no lineal: Fletcher-Reeves, Polak-Ribière, Hestenes-Stiefel. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} | 
+  27       | 13.10.2021   | Métodos Cuasi-Newton: SR1, DFP, BFGS. <br/> [Aula 27](aulas/Aula27.pdf){:target="_blank"} | 
   .        |              |                                                                               | 
   
 # Proyectos
