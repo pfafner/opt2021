@@ -80,6 +80,13 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 
 A continuación encontrarán sugerencias de tópicos para su proyecto de curso.  [Temas-proyecto](proyectos/Temas-proyecto.pdf){:target="_blank"} 
 
+Temas ya elegidos:
+
+**No.**  | **Fecha**    | **Tópicos**                                                                    
+-------- | ------------ | ------------------------------------------------------------------------------ 
+ 1       |              | 3. Variantes de Gradiente estocástico: NAG, Adagrad, AdaMax, Adam, Nadam, RMSE...
+ 2       |              | 
+
 
 # Referencias
 <div id='id-ref'/>
