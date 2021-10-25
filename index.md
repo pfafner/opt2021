@@ -86,7 +86,7 @@ Temas ya elegidos:
 -------- | ------------ | ------------------------------------------------------------------------------ 
  1       |              | Variantes de Gradiente estocástico: NAG, Adagrad, AdaMax, Adam, Nadam, RMSE...
  2       |              | Optimización Estocástica: Recocido simulado, Gibbs Sampling, Metropolis-Hastings, MCMC.
- 3       |              | 
+ 3       |              | Método de Nelder-Mead.
  4       |              | 
 
 
