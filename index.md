@@ -74,6 +74,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   27       | 13.10.2021   | Métodos Cuasi-Newton: SR1, DFP, BFGS. <br/> [Aula 27](aulas/Aula27.pdf){:target="_blank"} | 
   L6       | 18.10.2021   |                                                                               | 
   28       | 18.10.2021   | Mínimos Cuadrados. El método de Gauss-Newton. <br/> [Aula 28](aulas/Aula28.pdf){:target="_blank"} | 
+  29       | 25.10.2021   | Mínimos Cuadrados Regularizados. El método de Levenberg-Marquardt. <br/>  | 
   .        |              |                                                                               | 
   
 # Proyectos
