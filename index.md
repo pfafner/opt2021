@@ -73,8 +73,8 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   26       | 11.10.2021   | Gradiente Conjugado no lineal: Fletcher-Reeves, Polak-Ribière, Hestenes-Stiefel. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} | Nocedal y Wright, Sección 5.2. 
   27       | 13.10.2021   | Métodos Cuasi-Newton: SR1, DFP, BFGS. <br/> [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Nocedal y Wright, Secciones 6.1 y 6.2.
   L6       | 18.10.2021   |                                                                               | 
-  28       | 18.10.2021   | Mínimos Cuadrados. El método de Gauss-Newton. <br/> [Aula 28](aulas/Aula28.pdf){:target="_blank"} | 
-  29       | 25.10.2021   | Mínimos Cuadrados Regularizados. El método de Levenberg-Marquardt. <br/>  | Nocedal y Wright, Sección 6.3.
+  28       | 18.10.2021   | Mínimos Cuadrados. El método de Gauss-Newton. <br/> [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Nocedal y Wright, Sección 10.2.
+  29       | 25.10.2021   | Mínimos Cuadrados Regularizados. El método de Levenberg-Marquardt. <br/>  | Nocedal y Wright, Sección 10.3.
   .        |              |                                                                               | 
   
 # Proyectos
