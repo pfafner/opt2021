@@ -68,7 +68,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   21       | 20.09.2021   | Dudas de la Lista 5.                                                          | Nocedal y Wright, Capítulo 3.
   22       | 27.09.2021   | Métodos de Región de Confianza. <br/> [Aula 22](aulas/Aula22.pdf){:target="_blank"} | Nocedal y Wright, Sección 4.1.
   23       | 29.09.2021   | Punto de Cauchy. Método *Dogleg*. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"} | [Método del Punto de Cauchy](aulas/Aula23a.pdf){:target="_blank"} <br/> [Método *Dogleg*](aulas/Aula23b.pdf){:target="_blank"}
-  24       | 04.10.2021   | Descenso Coordenado. Método de Gradiente Proyectado.                          |   
+  24       | 04.10.2021   | Descenso Coordenado. Método de Gradiente Proyectado.                          | Nocedal y Wright, Sección 4.5.  
   25       | 06.10.2021   | Gradiente Conjugado. <br/> [Aula 25](aulas/Aula25.pdf){:target="_blank"}      | 
   26       | 11.10.2021   | Gradiente Conjugado no lineal: Fletcher-Reeves, Polak-Ribière, Hestenes-Stiefel. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} | 
   27       | 13.10.2021   | Métodos Cuasi-Newton: SR1, DFP, BFGS. <br/> [Aula 27](aulas/Aula27.pdf){:target="_blank"} | 
