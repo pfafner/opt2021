@@ -86,11 +86,10 @@ Temas ya elegidos:
 
 **No.**  | **Fecha**    | **Tópicos**                                                                    
 -------- | ------------ | ------------------------------------------------------------------------------ 
- 1       |              | Variantes de Gradiente estocástico: NAG, Adagrad, AdaMax, Adam, Nadam.
+ 1       |              | Gradiente estocástico: SGD, Adagrad, AdaMax.
  2       |              | Optimización Estocástica: Gibbs Sampling.
- 3       |              | Método de Nelder-Mead.
- 4       |              | Optimización Combinatoria.
- 5       |              | Simulated annealing.
+ 3       |              | Optimización Combinatoria: Problema del *Traveling Salesman*.
+ 4       |              | Simulated annealing.
 
 
 # Referencias
