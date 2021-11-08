@@ -75,7 +75,8 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   L6       | 18.10.2021   |                                                                               | 
   28       | 18.10.2021   | Mínimos Cuadrados. El método de Gauss-Newton. <br/> [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Nocedal y Wright, Sección 10.2.
   29       | 25.10.2021   | Mínimos Cuadrados Regularizados. El método de Levenberg-Marquardt. <br/>  | Nocedal y Wright, Sección 10.3.
-  29       | 03.11.2021   | Optimización sin Derivadas. Método de Nelder-Mead. <br/> [Aula 30](aulas/Aula30.pdf){:target="_blank"} | Nocedal y Wright, Sección. 9.5.
+  30       | 03.11.2021   | Optimización sin Derivadas. Método de Nelder-Mead. <br/> [Aula 30](aulas/Aula30.pdf){:target="_blank"} | Nocedal y Wright, Sección. 9.5.
+  31       |              |                                                                               | 
   .        |              |                                                                               | 
   
 # Proyectos
