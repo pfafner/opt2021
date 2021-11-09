@@ -90,7 +90,7 @@ Temas ya elegidos:
  1       |              | Gradiente estocástico: SGD, Adagrad, AdaMax.
  2       |              | Optimización Estocástica: Gibbs Sampling.
  3       |              | Optimización Combinatoria: Problema del *Traveling Salesman*.
- 4       |              | Simulated annealing.
+ 4       |              | Algoritmos evolutivos.
 
 
 # Referencias
