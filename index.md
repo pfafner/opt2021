@@ -77,6 +77,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   29       | 25.10.2021   | Mínimos Cuadrados Regularizados. El método de Levenberg-Marquardt. <br/>  | Nocedal y Wright, Sección 10.3.
   30       | 03.11.2021   | Optimización sin Derivadas. Método de Nelder-Mead. <br/> [Aula 30](aulas/Aula30.pdf){:target="_blank"} | Nocedal y Wright, Sección. 9.5.
   31       | 08.11.2021   | Optimización estocástica. Búsqueda local. <br/> [Aula 31](aulas/Aula31.pdf){:target="_blank"} | 
+  32       | 10.11.2021   | *Simulated Annealing*.                                                        | 
   .        |              |                                                                               | 
   
 # Proyectos
