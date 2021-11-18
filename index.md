@@ -78,21 +78,14 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   30       | 03.11.2021   | Optimización sin Derivadas. Método de Nelder-Mead. <br/> [Aula 30](aulas/Aula30.pdf){:target="_blank"} | Nocedal y Wright, Sección. 9.5.
   31       | 08.11.2021   | Optimización estocástica. Búsqueda local. <br/> [Aula 31](aulas/Aula31.pdf){:target="_blank"} | 
   32       | 10.11.2021   | Optimización estocástica. *Simulated Annealing*.                              | 
-  33       | 17.11.2021   |                                                                               | 
+  33       | 17.11.2021   | Optimización estocástica. EDA: *Estimation Distribution Algorithms*.          | 
   .        |              |                                                                               | 
   
 # Proyectos
 
 A continuación encontrarán sugerencias de tópicos para su proyecto de curso.  [Temas-proyecto](proyectos/Temas-proyecto.pdf){:target="_blank"} 
 
-Temas ya elegidos:
-
-**No.**  | **Fecha**    | **Tópicos**                                                                    
--------- | ------------ | ------------------------------------------------------------------------------ 
- 1       |              | Gradiente estocástico: SGD, Adagrad, AdaMax.
- 2       |              | Optimización Estocástica: Gibbs Sampling.
- 3       |              | Optimización Combinatoria: Problema del *Traveling Salesman*.
- 4       |              | Algoritmos evolutivos.
+Temas a presentar:
 
 
 # Referencias
