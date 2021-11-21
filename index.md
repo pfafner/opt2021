@@ -79,6 +79,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
   31       | 08.11.2021   | Optimización estocástica. Búsqueda local. <br/> [Aula 31](aulas/Aula31.pdf){:target="_blank"} | 
   32       | 10.11.2021   | Optimización estocástica. *Simulated Annealing*. <br/> [Aula 32](aulas/Aula32.pdf){:target="_blank"} | 
   33       | 17.11.2021   | Optimización estocástica. EDA: *Estimation Distribution Algorithms*. <br/> [Aula 33](aulas/Aula33.pdf){:target="_blank"} | 
+  34       | 22.11.2021   | Seminarios de Proyecto.                                                       | 
   .        |              |                                                                               | 
   
 # Proyectos
