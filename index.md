@@ -86,7 +86,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 
 A continuación encontrarán sugerencias de tópicos para su proyecto de curso.  [Temas-proyecto](proyectos/Temas-proyecto.pdf){:target="_blank"} 
 
-Temas a presentar:
+Temas presentados:
 
 **No.**  | **Fecha**    | **Conferencistas**                 | **Tópico**                                                                    
 -------- | ------------ | ---------------------------------- | --------------------------------------------------- 
