@@ -32,7 +32,7 @@ Caps 1-12, 14, (15 lo veremos en el curso) 16-21.
 ### Office Hours
 <div id='id-office'/>
 
-* Sábados.
+* Viernes de 18:00 a 20:00.
 
 
 # Material del curso
