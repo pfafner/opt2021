@@ -90,7 +90,7 @@ Temas presentados:
 
 **No.**  | **Fecha**    | **Conferencistas**                 | **Tópico**                                                                    
 -------- | ------------ | ---------------------------------- | --------------------------------------------------- 
- 1       | 22.11.2021   | Lorena Beltrán, Estuardo Menéndez  | Optimización Estocástica: Gibbs Sampling. <br/> [Presentación](){:target="_blank"}
+ 1       | 22.11.2021   | Lorena Beltrán, Estuardo Menéndez  | Optimización Estocástica: Gibbs Sampling. <br/> [Presentación](proyectos/Gibbs Sampling.pdf){:target="_blank"}
  2       | 22.11.2021   | Javier Mejía, José López           | El Problema del *Traveling Salesman*. <br/> [Presentación](){:target="_blank"}
  3       | 24.11.2021   | Andrea Argüello, Ángel Cuellar     | Gradiente estocástico: SGD, Adagrad, AdaMax. <br/> [Presentación](){:target="_blank"}
  4       | 24.11.2021   | Leonel Contreras, José Lucha       | Métodos de búsqueda local. *Hill-climbing*. <br/> [Presentación](){:target="_blank"}
