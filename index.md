@@ -94,7 +94,7 @@ Temas presentados:
  2       | 22.11.2021   | Javier Mejía, José López           | El Problema del *Traveling Salesman*. <br/> [Presentación](proyectos/Reporte TSP.pdf){:target="_blank"}
  3       | 24.11.2021   | Andrea Argüello, Ángel Cuellar     | Gradiente estocástico: SGD, Adagrad, AdaMax. <br/> [Presentación](proyectos/Gradiente Estocástico.pdf){:target="_blank"}
  4       | 24.11.2021   | Leonel Contreras, José Lucha       | Métodos de búsqueda local. *Hill-climbing*. <br/> [Presentación](proyectos/Algoritmos_de_Búsqueda_Local.pdf){:target="_blank"}
- 5       | 24.11.2021   | Karina Valladares, Rodrigo Morales | Algoritmos evolutivos. <br/> [Presentación](){:target="_blank"}
+ 5       | 24.11.2021   | Karina Valladares, Rodrigo Morales | Algoritmos evolutivos. <br/> [Presentación](proyectos/Algoritmos Evolutivos.pdf){:target="_blank"}
 
 
 # Referencias
