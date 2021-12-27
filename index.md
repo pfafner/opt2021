@@ -90,11 +90,11 @@ Temas presentados:
 
 **No.**  | **Fecha**    | **Conferencistas**                 | **Tópico**                                                                    
 -------- | ------------ | ---------------------------------- | --------------------------------------------------- 
- 1       | 22.11.2021   | Lorena Beltrán, Estuardo Menéndez  | Optimización Estocástica: Gibbs Sampling. <br/> [Presentación](proyectos/Gibbs Sampling.pdf){:target="_blank"}
- 2       | 22.11.2021   | Javier Mejía, José López           | El Problema del *Traveling Salesman*. <br/> [Presentación](proyectos/Reporte TSP.pdf){:target="_blank"}
- 3       | 24.11.2021   | Andrea Argüello, Ángel Cuellar     | Gradiente estocástico: SGD, Adagrad, AdaMax. <br/> [Presentación](proyectos/Gradiente Estocástico.pdf){:target="_blank"}
+ 1       | 22.11.2021   | Lorena Beltrán, Estuardo Menéndez  | Optimización Estocástica: Gibbs Sampling. <br/> [Presentación](proyectos/Gibbs_Sampling.pdf){:target="_blank"}
+ 2       | 22.11.2021   | Javier Mejía, José López           | El Problema del *Traveling Salesman*. <br/> [Presentación](proyectos/Reporte_TSP.pdf){:target="_blank"}
+ 3       | 24.11.2021   | Andrea Argüello, Ángel Cuellar     | Gradiente estocástico: SGD, Adagrad, AdaMax. <br/> [Presentación](proyectos/Gradiente_Estocástico.pdf){:target="_blank"}
  4       | 24.11.2021   | Leonel Contreras, José Lucha       | Métodos de búsqueda local. *Hill-climbing*, Algoritmos *Greedy*. <br/> [Presentación](proyectos/Algoritmos_de_Búsqueda_Local.pdf){:target="_blank"}
- 5       | 24.11.2021   | Karina Valladares, Rodrigo Morales | Algoritmos Evolutivos. <br/> [Presentación](proyectos/Algoritmos Evolutivos.pdf){:target="_blank"}
+ 5       | 24.11.2021   | Karina Valladares, Rodrigo Morales | Algoritmos Evolutivos. <br/> [Presentación](proyectos/Algoritmos_Evolutivos.pdf){:target="_blank"}
 
 
 # Referencias
